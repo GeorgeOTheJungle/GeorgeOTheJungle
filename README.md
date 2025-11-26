@@ -24,6 +24,4 @@ I've been learning C# and Unity for 5 years (or even more idk) this because I lo
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/GeorgeOTheJungle"><img src="https://github-readme-stats.vercel.app/api?username=GeorgeOTheJungle&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=64748b&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="GeorgeOTheJungle's GitHub stats" /></a>
-
 <a href="http://www.github.com/GeorgeOTheJungle"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeOTheJungle&stroke=64748b&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=64748b&currStreakLabel=ffffff&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
