@@ -7,7 +7,7 @@ Unity Game Developer and Pixel Artist
 I've been learning C# and Unity for 5 years (or even more idk) this because I love making games and solving problems.
 
 * 🌍  I'm based in Mexico
-* 🖥️  See my portfolio at [My Games](http://https://zhucklydev.itch.io)
+* 🖥️  See my portfolio at [Itch.Io](http://zhucklydev.itch.io)
 * ✉️  You can contact me at [georgebussart@gmail.com](mailto:georgebussart@gmail.com)
 * 🧠  I'm currently learning C#
 * 👥  I'm looking to collaborate on Game jams
